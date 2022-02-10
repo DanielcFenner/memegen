@@ -107,6 +107,12 @@ header i {
   color: var(--slate1);
   font-weight: 700;
   font-size: 1.125rem;
+  transition: 0.15s ease;
+  background-size: 100%;
+}
+
+.formSubmit:hover {
+  background-size: 150%;
 }
 
 .form {
