@@ -140,6 +140,7 @@ header i {
   text-transform: uppercase;
   padding: 0.5rem 0rem;
   width: 100%;
+  line-break: auto;
 }
 
 .top {
